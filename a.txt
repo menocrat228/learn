@@ -1,4 +1,4 @@
 Creating conflict in a.txt
-
+==========================
 This is a file that contains text.
 Added a little bit more info
