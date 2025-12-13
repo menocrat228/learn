@@ -1,3 +1,4 @@
 Creating conflict
 
 This is a file that contains text.
+Added a little bit more info
