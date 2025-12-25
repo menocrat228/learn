@@ -1,4 +1,4 @@
 Something was deleted
-
+--------------------
 This is a file that contains text.
 Added a little bit more info
